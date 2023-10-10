@@ -1,0 +1,26 @@
+<header>
+  <nav class="navbar navbar-light" style="background-color: lightskyblue">
+    <li class="container">
+      <a class="navbar-brand" href="{% url 'news:home' %}">
+        <span class="text-danger"><b>Triple</b></span>News
+      </a>
+      <ul class="nav nav-pills">
+        {% if user.is_authenticated %}
+          <li class="align-self-center">
+            The user: {{ user.username }}
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{% url 'users:logout' %}">Log out</a>
+          </li>
+        {% else %}
+          <li class="nav-item">
+            <a class="nav-link" href="{% url 'users:login' %}">Login</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{% url 'users:signup' %}">Sign up</a>
+          </li>
+        {% endif %}
+      </ul>
+    </li>
+  </nav>
+</header>

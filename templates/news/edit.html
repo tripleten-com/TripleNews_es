@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+  <h2>Edit the comment on the news</h2>
+  <h3>{{ comment.news.title }}</h3>
+  <form class="form-horizontal" method="post">
+    {% csrf_token %}
+    {% include "includes/errors.html" %}
+    {% for field in form %}
+      {{ field }}
+    {% endfor %}
+    <div class="form-actions">
+      <button type="submit" class="btn btn-primary" >Save</button>
+    </div>
+  </form>
+{% endblock %}
