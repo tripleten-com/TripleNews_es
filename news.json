@@ -1,0 +1,154 @@
+[
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2022-11-01",
+			"title": "The Wordicum blog came out on top in popularity",
+			"text": "Sensational news on the internet. The recently launched Wordicum blog has already become the most popular blog worldwide. Congratulations to the creators!"
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2022-10-01",
+			"title": "Mobile development news",
+			"text": "Students have created a mobile application that, when launched in a closed room, is able to determine whether anyone in the room is asleep or not. However, according to the research, the application gives an incorrect result 99% of the time."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2022-09-01",
+			"title": "Recursion Prize",
+			"text": "Tripleten graduates won the competition for the scariest story about recursion. The winners were presented with boxes at the award ceremony. Inside there was a smaller box, and within it — an even smaller one. They kept opening boxes, but there was always a smaller box inside. What do expect for a recursion prize?"
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2022-08-01",
+			"title": "Not just Boston Dynamics",
+			"text": "Students of Tripleten invented a robot to search for lost keys. The robot looks for keys under the nearest set of objects, interrogates anybody present, then concludes that the keys cannot be found."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2022-07-01",
+			"title": "Dream Exchange",
+			"text": "Graduates of the back-end department have invented a new technology: now they can send their dreams to their friends. It was based on the Runaway fitness tracker, which has all the necessary sensors for reading dreams. With the help of an application written in Python, dreams are processed and forwarded to another user. For now, the application can only process the dreams of Python developers."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2022-06-01",
+			"title": "It's the taking part that counts",
+			"text": "Student developers received the Audience Thumbs-Down award at the "Where Am I?" competition in the "Best Route of Online Education" category. For the contest, the students prepared a route for reaching career success: "Bed-Fridge-Work-Fridge-Computer-Fridge-Computer-Bed." The route was designed as a continuous loop for students to undertake for several months, but experiments showed that this wasn't enough to learn a new profession online. At least the creators received the consolation prize of two hours of sleep."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2022-05-01",
+			"title": "Schrödinger's Cart",
+			"text": "In practical classes, students tested an online sports goods store and found that not all products could be tested."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2022-04-01",
+			"title": "New ACME Corporation website",
+			"text": "The ACME corporation's website has become the most visited in the entire history of the corporation. But, unfortunately, it stopped working, so it was moved to another server. All employees are working on restoring the website; stay tuned for updates."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2022-03-01",
+			"title": "The well-deserved award",
+			"text": "TripleNote service is nominated for the 'Best TripleNote Service' award. Based on the survey results, this service was recognized as the best among all note-taking services called TripleNote."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2022-02-01",
+			"title": "The ACME website is up and running again",
+			"text": "Now you can watch all last-year's movies and TV series on their website, read all articles written in the last month, and review everything you liked and disliked in the year you were born."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2022-01-01",
+			"title": "Another award for Runaway",
+			"text": "The Runaway fitness tracker received an award in the category of 'Best voice-controlled fitness tracker.' You can tell the tracker, 'I ran five kilometers,' and it will take your word for it."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2021-12-01",
+			"title": "The time machine still doesn't work",
+			"text": "The development team, in collaboration with physicists, continues to debug the time machine. This would be the perfect car, but the problem is that to travel back in time you have to press the "Back" button, and to return to the future, you have to press the "Forward" button. It's too confusing for the machine operators."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2021-11-01",
+			"title": "Time management",
+			"text": "Students have developed a method to protect against burning deadlines. They simply hang a piece of paper on the wall that reads: "Deadlines are liars.""
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2021-10-01",
+			"title": "New developments in the consumer market",
+			"text": "ACME Corporation offers visitors a unique technology to help them save when buying new clothes. It finds the same stuff in the shops that you bought previously, so it's bound to suit you well."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2021-09-01",
+			"title": "The TripleNote Deadline Generator",
+			"text": "The TripleNote portal offers a new service: an automatic deadline generator. Any user will be able to connect to it completely free of charge, and a strict deadline will be set for each of his notes. If three deadlines are missed, the user will be blocked."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2021-08-01",
+			"title": "Wordicum blog wins award",
+			"text": "The developer community awarded the creators of the Wordicum blog with the 'Best Idea' award. The award was given to the project authors for a series of videos in which people attempt to do something but fail. They all end in hilarious fashion."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2021-07-01",
+			"title": "Runaway model update",
+			"text": "The new fitness tracker model, Runaway X3 Pro, will soon be released for beta testing. The gadget developers have announced the following features: a vibrating alarm clock, sleep tracker, calorie counter, pedometer, timer, calorie calculator, distance tracker, dream tracking and sharing, thought reading and recording. The tracker can withstand a fall from a height of up to 10 meters onto asphalt and is bulldozer-proof."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2021-06-01",
+			"title": "Find yourself on TripleNews",
+			"text": "News aggregator TripleNews is developing a service called 'Find Me': a user types 'Where am I' into the search form, and the news summary details who is looking for them, where people are searching for them, and why they're doing it."
+		}
+	},
+	{
+		"model": "news.news",
+		"fields": {
+			"date": "2021-05-01",
+			"title": "Three billion users",
+			"text": "The TripleNote service has expanded its user base to 3 billion people. This was achieved after the launch of the new Share You Deadline service, where all registered users can see other people's notes and do other people's tasks."
+		}
+	}
+]

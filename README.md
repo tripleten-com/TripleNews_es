@@ -35,7 +35,7 @@ To begin your task, copy your repository URL and clone it.
     python -m venv venv
     ```
    
-The virtual environment will be deployed in the *triple_news/* directory. The `venv` folder will appear there too and will store all the project dependencies. The file structure will look like this:
+The virtual environment will be created in the *triple_news/* directory. The `venv` folder will appear there too and will store all the project dependencies.
 
 
 ### Activating the virtual environment
