@@ -4,11 +4,11 @@ from django.core.exceptions import ValidationError
 from .models import Comment
 
 BAD_WORDS = (
-    'rascal',
-    'scoundrel',
-    # Add to the list at your discretion.
+    'bribón',
+    'sinvergüenza',
+    # Añadir a la lista según tu criterio.
 )
-WARNING = 'Don\'t argue!'
+WARNING = '¡No digas groserías!'
 
 
 class CommentForm(ModelForm):
@@ -18,7 +18,7 @@ class CommentForm(ModelForm):
         fields = ('text',)
 
     def clean_text(self):
-        """We do not allow swearing in the comments."""
+        """No permitimos groserías en los comentarios."""
         text = self.cleaned_data['text']
         lowered_text = text.lower()
         for word in BAD_WORDS:
