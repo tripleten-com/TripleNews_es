@@ -2,7 +2,7 @@ from django.urls import path
 
 from news import views
 
-app_name = 'news'
+app_name = 'noticia'
 
 urlpatterns = [
     path('', views.NewsList.as_view(), name='home'),
