@@ -3,152 +3,152 @@
 		"model": "news.news",
 		"fields": {
 			"date": "2022-11-01",
-			"title": "The Wordicum blog came out on top in popularity",
-			"text": "Sensational news on the internet. The recently launched Wordicum blog has already become the most popular blog worldwide. Congratulations to the creators!"
+			"title": "El blog Wordicum ha alcanzado el primer puesto en popularidad",
+			"text": "Noticias sensacionales en Internet. El recién lanzado blog Wordicum ya se ha convertido en el blog más popular a nivel mundial. ¡Felicidades a los creadores!"
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2022-10-01",
-			"title": "Mobile development news",
-			"text": "Students have created a mobile application that, when launched in a closed room, is able to determine whether anyone in the room is asleep or not. However, according to the research, the application gives an incorrect result 99% of the time."
+			"title": "Noticias sobre el desarrollo móvil",
+			"text": "Los estudiantes han creado una aplicación móvil que, cuando se ejecuta en una habitación cerrada, es capaz de determinar si alguien en la habitación está durmiendo o no. Sin embargo, según la investigación, la aplicación da un resultado incorrecto el 99% de las veces."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2022-09-01",
-			"title": "Recursion Prize",
-			"text": "Tripleten graduates won the competition for the scariest story about recursion. The winners were presented with boxes at the award ceremony. Inside there was a smaller box, and within it — an even smaller one. They kept opening boxes, but there was always a smaller box inside. What do expect for a recursion prize?"
+			"title": "Premio Recursión",
+			"text": "Los graduados de TripleTen ganaron el concurso de la historia más aterradora sobre la recursión. En la ceremonia de premios, los ganadores recibieron cajas. Dentro había una caja más pequeña, y dentro de esta, otra aún más pequeña. Seguían abriendo cajas, pero dentro siempre había una caja más pequeña. ¿Qué se puede esperar de un premio de recursión?"
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2022-08-01",
-			"title": "Not just Boston Dynamics",
-			"text": "Students of Tripleten invented a robot to search for lost keys. The robot looks for keys under the nearest set of objects, interrogates anybody present, then concludes that the keys cannot be found."
+			"title": "No solo Boston Dynamics",
+			"text": "El estudiantado de TripleTen acaba de inventar un robot para buscar llaves perdidas. El robot busca llaves debajo del conjunto de objetos más cercano, interroga a cualquiera que esté presente y luego concluye que no se pueden encontrar las llaves."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2022-07-01",
-			"title": "Dream Exchange",
-			"text": "Graduates of the back-end department have invented a new technology: now they can send their dreams to their friends. It was based on the Runaway fitness tracker, which has all the necessary sensors for reading dreams. With the help of an application written in Python, dreams are processed and forwarded to another user. For now, the application can only process the dreams of Python developers."
+			"title": "Intercambio de sueños",
+			"text": "Los graduados del departamento de back-end han inventado una nueva tecnología: ahora pueden enviar sus sueños a sus amistades. Se basó en el rastreador de actividad Runaway, que tiene todos los sensores necesarios para interpretar los sueños. Con la ayuda de una aplicación escrita en Python, los sueños son procesados y reenviados a otro usuario. Por ahora, la aplicación solo puede procesar los sueños de alguien que desarrolla en Python."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2022-06-01",
-			"title": "It's the taking part that counts",
-			"text": "Student developers received the Audience Thumbs-Down award at the "Where Am I?" competition in the "Best Route of Online Education" category. For the contest, the students prepared a route for reaching career success: "Bed-Fridge-Work-Fridge-Computer-Fridge-Computer-Bed." The route was designed as a continuous loop for students to undertake for several months, but experiments showed that this wasn't enough to learn a new profession online. At least the creators received the consolation prize of two hours of sleep."
+			"title": "Lo importante no es ganar, sino participar",
+			"text": "Los estudiantes desarrolladores recibieron el premio Pulgar Abajo de la Audiencia en el concurso "¿Dónde estoy?" en la categoría "Mejor ruta de educación online". Para el concurso, los estudiantes prepararon una ruta para alcanzar el éxito profesional: "Cama-Nevera-Trabajo-Nevera-Computadora-Nevera-Computadora-Cama". La ruta fue diseñada como un bucle continuo para que los estudiantes la recorrieran durante varios meses, pero los experimentos demostraron que esto no era suficiente para aprender una nueva profesión online. Al menos los creadores recibieron el premio de consolación: dos horas de sueño."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2022-05-01",
-			"title": "Schrödinger's Cart",
-			"text": "In practical classes, students tested an online sports goods store and found that not all products could be tested."
+			"title": "El carrito de Schrödinger",
+			"text": "En las clases prácticas, los estudiantes probaron una tienda online de artículos deportivos y descubrieron que no todos los productos podían ser probados."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2022-04-01",
-			"title": "New ACME Corporation website",
-			"text": "The ACME corporation's website has become the most visited in the entire history of the corporation. But, unfortunately, it stopped working, so it was moved to another server. All employees are working on restoring the website; stay tuned for updates."
+			"title": "Nuevo sitio web de la Corporación ACME",
+			"text": "La página web de la Corporación ACME se ha convertido en la más visitada de toda la historia de la corporación. Pero, desafortunadamente, dejó de funcionar, por lo que la trasladaron a otro servidor. Todos los empleados están trabajando para restaurar el sitio web; estén atentos a las actualizaciones."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2022-03-01",
-			"title": "The well-deserved award",
-			"text": "TripleNote service is nominated for the 'Best TripleNote Service' award. Based on the survey results, this service was recognized as the best among all note-taking services called TripleNote."
+			"title": "Premio merecido",
+			"text": "El servicio TripleNote está nominado al premio 'Mejor Servicio TripleNote'. Según la encuesta, este servicio fue reconocido como el mejor entre los servicios de toma de notas llamados TripleNote."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2022-02-01",
-			"title": "The ACME website is up and running again",
-			"text": "Now you can watch all last-year's movies and TV series on their website, read all articles written in the last month, and review everything you liked and disliked in the year you were born."
+			"title": "El sitio web de ACME vuelve a funcionar",
+			"text": "Ahora puedes ver todas las películas y series de televisión del año pasado en su sitio web, leer todos los artículos escritos el último mes y revisar todo lo que te gustó y no te gustó el año en que naciste."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2022-01-01",
-			"title": "Another award for Runaway",
-			"text": "The Runaway fitness tracker received an award in the category of 'Best voice-controlled fitness tracker.' You can tell the tracker, 'I ran five kilometers,' and it will take your word for it."
+			"title": "Otro premio para Runaway",
+			"text": "El rastreador de actividad física Runaway recibió el premio en la categoría 'Mejor rastreador de actividad física controlado por voz'. Puedes decirle al rastreador: 'Corrí cinco kilómetros', y aceptará tu palabra."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2021-12-01",
-			"title": "The time machine still doesn't work",
-			"text": "The development team, in collaboration with physicists, continues to debug the time machine. This would be the perfect car, but the problem is that to travel back in time you have to press the "Back" button, and to return to the future, you have to press the "Forward" button. It's too confusing for the machine operators."
+			"title": "La máquina del tiempo sigue sin funcionar",
+			"text": "El equipo de desarrollo, en colaboración con los físicos, sigue depurando la máquina del tiempo. Este sería el vehículo perfecto, pero el problema es que para viajar al pasado hay que pulsar el botón 'Atrás', y para volver al futuro hay que pulsar el botón 'Adelante'. Es demasiado confuso para quienes manejan la máquina."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2021-11-01",
-			"title": "Time management",
-			"text": "Students have developed a method to protect against burning deadlines. They simply hang a piece of paper on the wall that reads: "Deadlines are liars.""
+			"title": "Gestión del tiempo",
+			"text": "Los estudiantes han desarrollado un método para protegerse contra las fechas límite. Simplemente cuelgan en la pared un papel que dice: 'Las fechas límite son mentirosas'."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2021-10-01",
-			"title": "New developments in the consumer market",
-			"text": "ACME Corporation offers visitors a unique technology to help them save when buying new clothes. It finds the same stuff in the shops that you bought previously, so it's bound to suit you well."
+			"title": "Nuevos desarrollos en el mercado de consumo",
+			"text": "La Corporación ACME ofrece a los visitantes una tecnología única para ayudarlos a ahorrar a la hora de comprar ropa nueva. Encuentra en las tiendas las mismas cosas que compraste anteriormente, así que seguramente te quedarán bien."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2021-09-01",
-			"title": "The TripleNote Deadline Generator",
-			"text": "The TripleNote portal offers a new service: an automatic deadline generator. Any user will be able to connect to it completely free of charge, and a strict deadline will be set for each of his notes. If three deadlines are missed, the user will be blocked."
+			"title": "Generador de fechas límite TripleNote",
+			"text": "El portal TripleNote ofrece un nuevo servicio: un generador automático de fechas límite. Cualquier usuario podrá conectarse a él de forma totalmente gratuita, y se fijará una fecha límite inflexible para cada una de sus notas. Si se incumplen tres fechas límite, el usuario será bloqueado."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2021-08-01",
-			"title": "Wordicum blog wins award",
-			"text": "The developer community awarded the creators of the Wordicum blog with the 'Best Idea' award. The award was given to the project authors for a series of videos in which people attempt to do something but fail. They all end in hilarious fashion."
+			"title": "El blog Wordicum ha sido premiado",
+			"text": "La comunidad de desarrolladores premió a los creadores del blog Wordicum con el premio a la 'Mejor idea'. El premio fue otorgado a los autores del proyecto por una serie de videos en los que personas intentan hacer algo, pero fracasan. Todos terminan de manera divertidísima."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2021-07-01",
-			"title": "Runaway model update",
-			"text": "The new fitness tracker model, Runaway X3 Pro, will soon be released for beta testing. The gadget developers have announced the following features: a vibrating alarm clock, sleep tracker, calorie counter, pedometer, timer, calorie calculator, distance tracker, dream tracking and sharing, thought reading and recording. The tracker can withstand a fall from a height of up to 10 meters onto asphalt and is bulldozer-proof."
+			"title": "Actualización de la gama de funciones de Runaway",
+			"text": "El nuevo modelo de rastreador de actividad física, Runaway X3 Pro, pronto se lanzará para pruebas beta. Los desarrolladores del dispositivo han anunciado las siguientes características: despertador vibratorio, rastreador de sueño, contador de calorías, podómetro, cronómetro, calculadora de calorías, rastreador de distancia, seguimiento e intercambio de sueños, lectura y registro de pensamientos. El rastreador resiste una caída desde una altura de hasta 10 metros sobre asfalto y es resistente a las excavadoras."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2021-06-01",
-			"title": "Find yourself on TripleNews",
-			"text": "News aggregator TripleNews is developing a service called 'Find Me': a user types 'Where am I' into the search form, and the news summary details who is looking for them, where people are searching for them, and why they're doing it."
+			"title": "Búscate en TripleNews",
+			"text": "El agregador de noticias TripleNews está desarrollando un servicio llamado 'Búscame': el usuario introduce 'Dónde estoy' en el campo de búsqueda, y el resumen de noticias detalla quién lo está buscando, dónde y por qué."
 		}
 	},
 	{
 		"model": "news.news",
 		"fields": {
 			"date": "2021-05-01",
-			"title": "Three billion users",
-			"text": "The TripleNote service has expanded its user base to 3 billion people. This was achieved after the launch of the new Share You Deadline service, where all registered users can see other people's notes and do other people's tasks."
+			"title": "Tres mil millones de usuarios",
+			"text": "El servicio TripleNote ha ampliado su base de usuarios a 3 mil millones. Esto se logró tras el lanzamiento del nuevo servicio 'Comparte tu fecha límite', donde todos los usuarios registrados pueden ver las notas de otras personas y realizar las tareas de otras personas."
 		}
 	}
 ]
