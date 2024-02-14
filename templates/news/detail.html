@@ -1,29 +1,29 @@
 {% extends "base.html" %}
 {% block content %}
-  <a href="{% url 'news:home' %}">Back to main page</a>
+  <a href="{% url 'news:home' %}">Volver a la página principal</a>
   <hr>
   <h2>{{ news.title }}</h2>
   <p>{{ news.text }}</p>
   <p>{{ news.date }}</p>
   <hr>
-  <h3 id="comments">Comments:</h3>
+  <h3 id="comments">Comentarios:</h3>
   {% for comment in news.comment_set.all %}
     <div>
       <b>{{ comment.author }}</b>, <b>{{ comment.created }}</b>
       <p class="mb-0">{{ comment.text|linebreaksbr }}</p>
       {% if comment.author == user %}
-        <a href="{% url 'news:edit' comment.pk %}">Edit</a> |
-        <a href="{% url 'news:delete' comment.pk %}">Delete</a>
+        <a href="{% url 'news:edit' comment.pk %}">Editar</a> |
+        <a href="{% url 'news:delete' comment.pk %}">Eliminar</a>
       {% endif %}
     </div>
     <br>
   {% empty %}
-    <p>Nobody wrote anything here...</p>
+    <p>Nadie escribió nada aquí...</p>
   {% endfor %}
   {% if user.is_authenticated %}
     <hr>
     <div class="col-md-3">
-      <h3>Leave a comment:</h3>
+      <h3>Deja tu comentario:</h3>
       <form action="" method="post">
         {% csrf_token %}
         {% include "includes/errors.html" %}
@@ -31,7 +31,7 @@
           {{ field }}
         {% endfor %}
         <div class="form-actions">
-          <button type="submit" class="btn btn-primary" >Save</button>
+          <button type="submit" class="btn btn-primary" >Guarda</button>
         </div>
       </form>
     </div>
