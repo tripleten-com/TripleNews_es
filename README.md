@@ -12,7 +12,7 @@ Aquí hay una breve lista de las capacidades funcionales del proyecto triple_new
 
 Para cargar noticias preparadas después de aplicar las migraciones, ejecuta este comando:
 ```bash
-python manage.py loaddata news.json
+python manage.py loaddata db.json
 ```
 
 
